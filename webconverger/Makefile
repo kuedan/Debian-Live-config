@@ -1,5 +1,5 @@
 REPO := git://github.com/kuedan/webc.git
-OUTPUT := /srv/www/build.webconverger.org/output
+OUTPUT := ~/output
 
 # Check if live-build is new enough
 LB_VERSION:=$(shell lb --version)
