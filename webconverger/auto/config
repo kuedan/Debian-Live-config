@@ -14,9 +14,9 @@ lb config noauto --clean \
 	--debian-installer false \
 	--debian-installer-gui false \
 	--apt-indices false \
-	--iso-publisher "http://webconverger.com" \
-	--iso-volume "Webconverger" \
-	--iso-application "Webconverger" \
+	--iso-publisher "http://sblschools.com" \
+	--iso-volume "SBL-KIOSK" \
+	--iso-application "SBL-KIOSK" \
 	--archive-areas "main contrib non-free" \
 	--apt-recommends false \
 	--memtest none \
